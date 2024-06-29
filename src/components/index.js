@@ -1,6 +1,4 @@
-import MovieList from "./MovieList"
-import TvList from "./TVList"
+import CardComponent from "./CardComponent"
 import Menu from "./Menu"
-import Detail from "./Detail"
 
-export { MovieList, TvList, Menu, Detail }
+export { CardComponent, Menu }
